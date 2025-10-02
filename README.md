@@ -21,8 +21,8 @@ TBC
 # Suggested workflow
 
 1. Select a template from Developer Hub. Examples:
-  * Onboard into a new data science team (needs a default workbench created)
-  * Build be a basic document processing pipeline
+   * Onboard into a new data science team (needs a default workbench created)
+   * Build be a basic document processing pipeline
 2. System clones a skeleton git repo with HELM chart
 4. User enters details and creates a values file.
 5. System creates a production git repo and Argo Application/Application Set
